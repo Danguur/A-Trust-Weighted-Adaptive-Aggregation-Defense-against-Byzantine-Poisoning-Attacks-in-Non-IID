@@ -1,0 +1,14 @@
+dataset,model,n_clients,rounds,frac_mal,attack,method,seed,acc,asr,macro_f1,bal_acc,det_prec,det_rec,agg_ms,wall_s
+cifar10,lenet5,20,15,0.4,ipm,FedAvg,1,0.1,1.0,0.01818,0.1,nan,nan,0.56989,78.4
+cifar10,lenet5,20,15,0.4,ipm,FedAvg,2,0.1,1.0,0.01818,0.1,nan,nan,0.51075,74.6
+cifar10,lenet5,20,15,0.4,ipm,FedAvg,3,0.1,1.0,0.01818,0.1,nan,nan,0.54644,76.2
+cifar10,lenet5,20,15,0.4,ipm,Median,1,0.10013,0.01511,0.0199,0.1004,nan,nan,24.23414,81.0
+cifar10,lenet5,20,15,0.4,ipm,Median,2,0.1,1.0,0.01819,0.1,nan,nan,25.53541,80.8
+cifar10,lenet5,20,15,0.4,ipm,Median,3,0.1,0.0,0.01818,0.1,nan,nan,26.39369,81.9
+cifar10,lenet5,20,15,0.4,ipm,FLTrust,1,0.1156,0.02544,0.05982,0.1238,0.45655,0.6,73.26192,81.3
+cifar10,lenet5,20,15,0.4,ipm,FLTrust,2,0.06857,0.0,0.02338,0.0678,0.43943,0.6,69.5077,78.9
+cifar10,lenet5,20,15,0.4,ipm,FLTrust,3,0.09987,0.00056,0.0215,0.1012,0.2065,0.33333,70.85815,78.4
+cifar10,lenet5,20,15,0.4,ipm,ClippedClustering,1,0.1297,0.11378,0.05239,0.1369,0.6,0.6,8.52009,60.9
+cifar10,lenet5,20,15,0.4,ipm,ClippedClustering,2,0.12537,0.43789,0.05256,0.1414,0.72593,0.73333,7.68605,47.3
+cifar10,lenet5,20,15,0.4,ipm,ClippedClustering,3,0.1,0.0,0.01818,0.1,0.6,0.6,7.67273,46.8
+cifar10,lenet5,20,15,0.4,ipm,FedTWA-v1,1,0.1481,0.54722,0.04782,0.1458,0.52881,0.66667,290.19347,50.8

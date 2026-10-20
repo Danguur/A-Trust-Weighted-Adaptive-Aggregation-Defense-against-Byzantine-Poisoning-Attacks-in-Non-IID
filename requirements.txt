@@ -1,0 +1,10 @@
+# Tested with Python 3.12. Any Python >= 3.9 should work.
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+scikit-learn>=1.3
+medmnist>=3.0     # only needed for --dataset pathmnist
+graphviz>=0.20    # optional: pipeline diagrams (also needs the Graphviz program, https://graphviz.org)

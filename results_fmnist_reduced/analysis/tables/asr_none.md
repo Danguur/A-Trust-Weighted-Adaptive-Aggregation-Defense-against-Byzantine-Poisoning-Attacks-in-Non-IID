@@ -1,0 +1,12 @@
+| Method | 20% malicious | 40% malicious |
+|---|---|---|
+| FedAvg | n/a | 4.24 ± 2.14 |
+| Median | n/a | 7.90 ± 5.09 |
+| TrimmedMean | n/a | 4.29 ± 1.93 |
+| Krum | n/a | 13.92 ± 14.29 |
+| RFA | n/a | 5.01 ± 1.21 |
+| FLTrust | n/a | 4.64 ± 6.03 |
+| ClippedClustering | n/a | 4.06 ± 1.95 |
+| FedTWA-v1 | n/a | 6.23 ± 0.25 |
+| FedTWA-v2 | n/a | 7.20 ± 5.08 |
+| Bulyan | 4.16 ± 2.15 | n/a |

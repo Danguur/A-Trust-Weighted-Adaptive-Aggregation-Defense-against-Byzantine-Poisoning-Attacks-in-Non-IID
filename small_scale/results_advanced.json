@@ -1,0 +1,536 @@
+{
+  "IID|attackers=0%|FedAvg": {
+    "mean_acc": 0.9472,
+    "std_acc": 0.0,
+    "avg_round_ms": 0.0195
+  },
+  "IID|attackers=0%|Median": {
+    "mean_acc": 0.9466,
+    "std_acc": 0.0039,
+    "avg_round_ms": 0.1505
+  },
+  "IID|attackers=0%|TrimmedMean": {
+    "mean_acc": 0.9464,
+    "std_acc": 0.0023,
+    "avg_round_ms": 0.0682
+  },
+  "IID|attackers=0%|Krum": {
+    "mean_acc": 0.9053,
+    "std_acc": 0.008,
+    "avg_round_ms": 0.5564
+  },
+  "IID|attackers=0%|FedTWA (proposed)": {
+    "mean_acc": 0.9486,
+    "std_acc": 0.0051,
+    "avg_round_ms": 0.7285
+  },
+  "IID|attackers=20%|FedAvg": {
+    "mean_acc": 0.5914,
+    "std_acc": 0.0165,
+    "avg_round_ms": 0.0226
+  },
+  "IID|attackers=20%|Median": {
+    "mean_acc": 0.9459,
+    "std_acc": 0.0028,
+    "avg_round_ms": 0.1309
+  },
+  "IID|attackers=20%|TrimmedMean": {
+    "mean_acc": 0.9437,
+    "std_acc": 0.002,
+    "avg_round_ms": 0.0675
+  },
+  "IID|attackers=20%|Krum": {
+    "mean_acc": 0.9033,
+    "std_acc": 0.0094,
+    "avg_round_ms": 0.5009
+  },
+  "IID|attackers=20%|FedTWA (proposed)": {
+    "mean_acc": 0.9299,
+    "std_acc": 0.0055,
+    "avg_round_ms": 0.613
+  },
+  "IID|attackers=40%|FedAvg": {
+    "mean_acc": 0.2381,
+    "std_acc": 0.0127,
+    "avg_round_ms": 0.0179
+  },
+  "IID|attackers=40%|Median": {
+    "mean_acc": 0.9242,
+    "std_acc": 0.0077,
+    "avg_round_ms": 0.1534
+  },
+  "IID|attackers=40%|TrimmedMean": {
+    "mean_acc": 0.3331,
+    "std_acc": 0.0218,
+    "avg_round_ms": 0.0811
+  },
+  "IID|attackers=40%|Krum": {
+    "mean_acc": 0.9076,
+    "std_acc": 0.0089,
+    "avg_round_ms": 0.6166
+  },
+  "IID|attackers=40%|FedTWA (proposed)": {
+    "mean_acc": 0.8193,
+    "std_acc": 0.0169,
+    "avg_round_ms": 0.6843
+  },
+  "Non-IID|attackers=0%|FedAvg": {
+    "mean_acc": 0.9493,
+    "std_acc": 0.0036,
+    "avg_round_ms": 0.018
+  },
+  "Non-IID|attackers=0%|Median": {
+    "mean_acc": 0.9476,
+    "std_acc": 0.0047,
+    "avg_round_ms": 0.1216
+  },
+  "Non-IID|attackers=0%|TrimmedMean": {
+    "mean_acc": 0.95,
+    "std_acc": 0.004,
+    "avg_round_ms": 0.0653
+  },
+  "Non-IID|attackers=0%|Krum": {
+    "mean_acc": 0.8774,
+    "std_acc": 0.0328,
+    "avg_round_ms": 0.5132
+  },
+  "Non-IID|attackers=0%|FedTWA (proposed)": {
+    "mean_acc": 0.9477,
+    "std_acc": 0.0041,
+    "avg_round_ms": 0.7333
+  },
+  "Non-IID|attackers=20%|FedAvg": {
+    "mean_acc": 0.407,
+    "std_acc": 0.0747,
+    "avg_round_ms": 0.0196
+  },
+  "Non-IID|attackers=20%|Median": {
+    "mean_acc": 0.9387,
+    "std_acc": 0.0044,
+    "avg_round_ms": 0.1475
+  },
+  "Non-IID|attackers=20%|TrimmedMean": {
+    "mean_acc": 0.9413,
+    "std_acc": 0.0084,
+    "avg_round_ms": 0.0683
+  },
+  "Non-IID|attackers=20%|Krum": {
+    "mean_acc": 0.8073,
+    "std_acc": 0.0429,
+    "avg_round_ms": 0.4065
+  },
+  "Non-IID|attackers=20%|FedTWA (proposed)": {
+    "mean_acc": 0.9368,
+    "std_acc": 0.0129,
+    "avg_round_ms": 0.6653
+  },
+  "Non-IID|attackers=40%|FedAvg": {
+    "mean_acc": 0.2027,
+    "std_acc": 0.036,
+    "avg_round_ms": 0.0185
+  },
+  "Non-IID|attackers=40%|Median": {
+    "mean_acc": 0.9127,
+    "std_acc": 0.0078,
+    "avg_round_ms": 0.1367
+  },
+  "Non-IID|attackers=40%|TrimmedMean": {
+    "mean_acc": 0.3966,
+    "std_acc": 0.0961,
+    "avg_round_ms": 0.0649
+  },
+  "Non-IID|attackers=40%|Krum": {
+    "mean_acc": 0.809,
+    "std_acc": 0.0627,
+    "avg_round_ms": 0.4678
+  },
+  "Non-IID|attackers=40%|FedTWA (proposed)": {
+    "mean_acc": 0.7803,
+    "std_acc": 0.0189,
+    "avg_round_ms": 0.643
+  },
+  "significance_tests": {
+    "FedTWA_vs_Median_nonIID_20pct": {
+      "fedtwa_mean": 0.9368,
+      "median_mean": 0.9387,
+      "t_stat": -0.3467,
+      "p_value": 0.7463
+    },
+    "FedTWA_vs_Median_nonIID_40pct": {
+      "fedtwa_mean": 0.7803,
+      "median_mean": 0.9127,
+      "t_stat": -11.588,
+      "p_value": 0.0003
+    }
+  },
+  "adaptive_attack": {
+    "attackers=20%|persistent|FedAvg": {
+      "mean_acc": 0.407,
+      "std_acc": 0.0747
+    },
+    "attackers=20%|persistent|Median": {
+      "mean_acc": 0.9387,
+      "std_acc": 0.0044
+    },
+    "attackers=20%|persistent|TrimmedMean": {
+      "mean_acc": 0.9413,
+      "std_acc": 0.0084
+    },
+    "attackers=20%|persistent|Krum": {
+      "mean_acc": 0.8073,
+      "std_acc": 0.0429
+    },
+    "attackers=20%|persistent|FedTWA (proposed)": {
+      "mean_acc": 0.9368,
+      "std_acc": 0.0129
+    },
+    "attackers=20%|adaptive|FedAvg": {
+      "mean_acc": 0.9088,
+      "std_acc": 0.0085
+    },
+    "attackers=20%|adaptive|Median": {
+      "mean_acc": 0.9429,
+      "std_acc": 0.0091
+    },
+    "attackers=20%|adaptive|TrimmedMean": {
+      "mean_acc": 0.9483,
+      "std_acc": 0.0054
+    },
+    "attackers=20%|adaptive|Krum": {
+      "mean_acc": 0.8073,
+      "std_acc": 0.0429
+    },
+    "attackers=20%|adaptive|FedTWA (proposed)": {
+      "mean_acc": 0.9316,
+      "std_acc": 0.0072
+    },
+    "attackers=40%|persistent|FedAvg": {
+      "mean_acc": 0.2027,
+      "std_acc": 0.036
+    },
+    "attackers=40%|persistent|Median": {
+      "mean_acc": 0.9127,
+      "std_acc": 0.0078
+    },
+    "attackers=40%|persistent|TrimmedMean": {
+      "mean_acc": 0.3966,
+      "std_acc": 0.0961
+    },
+    "attackers=40%|persistent|Krum": {
+      "mean_acc": 0.809,
+      "std_acc": 0.0627
+    },
+    "attackers=40%|persistent|FedTWA (proposed)": {
+      "mean_acc": 0.7803,
+      "std_acc": 0.0189
+    },
+    "attackers=40%|adaptive|FedAvg": {
+      "mean_acc": 0.8611,
+      "std_acc": 0.03
+    },
+    "attackers=40%|adaptive|Median": {
+      "mean_acc": 0.9309,
+      "std_acc": 0.0167
+    },
+    "attackers=40%|adaptive|TrimmedMean": {
+      "mean_acc": 0.8889,
+      "std_acc": 0.0174
+    },
+    "attackers=40%|adaptive|Krum": {
+      "mean_acc": 0.809,
+      "std_acc": 0.0627
+    },
+    "attackers=40%|adaptive|FedTWA (proposed)": {
+      "mean_acc": 0.8871,
+      "std_acc": 0.0284
+    }
+  },
+  "detection": {
+    "attackers=20%|persistent": {
+      "precision": 0.9025,
+      "recall": 0.892,
+      "f1": 0.8972
+    },
+    "attackers=20%|adaptive": {
+      "precision": 0.4022,
+      "recall": 0.504,
+      "f1": 0.4474
+    },
+    "attackers=40%|persistent": {
+      "precision": 0.8724,
+      "recall": 0.818,
+      "f1": 0.8443
+    },
+    "attackers=40%|adaptive": {
+      "precision": 0.5258,
+      "recall": 0.582,
+      "f1": 0.5525
+    }
+  },
+  "ablation_alpha": {
+    "0.0": {
+      "mean_acc": 0.9458,
+      "std_acc": 0.0074
+    },
+    "0.25": {
+      "mean_acc": 0.9407,
+      "std_acc": 0.0117
+    },
+    "0.5": {
+      "mean_acc": 0.9368,
+      "std_acc": 0.0129
+    },
+    "0.75": {
+      "mean_acc": 0.9346,
+      "std_acc": 0.0137
+    },
+    "1.0": {
+      "mean_acc": 0.9296,
+      "std_acc": 0.0161
+    }
+  },
+  "scalability": {
+    "n=10|attackers=20%|FedAvg": {
+      "mean_acc": 0.4185,
+      "std_acc": 0.077
+    },
+    "n=10|attackers=20%|Median": {
+      "mean_acc": 0.9391,
+      "std_acc": 0.0051
+    },
+    "n=10|attackers=20%|TrimmedMean": {
+      "mean_acc": 0.9404,
+      "std_acc": 0.0107
+    },
+    "n=10|attackers=20%|Krum": {
+      "mean_acc": 0.7756,
+      "std_acc": 0.0216
+    },
+    "n=10|attackers=20%|FedTWA (proposed)": {
+      "mean_acc": 0.9452,
+      "std_acc": 0.0101
+    },
+    "n=10|attackers=40%|FedAvg": {
+      "mean_acc": 0.222,
+      "std_acc": 0.0205
+    },
+    "n=10|attackers=40%|Median": {
+      "mean_acc": 0.9107,
+      "std_acc": 0.0096
+    },
+    "n=10|attackers=40%|TrimmedMean": {
+      "mean_acc": 0.3743,
+      "std_acc": 0.0537
+    },
+    "n=10|attackers=40%|Krum": {
+      "mean_acc": 0.7772,
+      "std_acc": 0.0571
+    },
+    "n=10|attackers=40%|FedTWA (proposed)": {
+      "mean_acc": 0.7806,
+      "std_acc": 0.0189
+    },
+    "n=20|attackers=20%|FedAvg": {
+      "mean_acc": 0.4526,
+      "std_acc": 0.0234
+    },
+    "n=20|attackers=20%|Median": {
+      "mean_acc": 0.933,
+      "std_acc": 0.0076
+    },
+    "n=20|attackers=20%|TrimmedMean": {
+      "mean_acc": 0.94,
+      "std_acc": 0.0057
+    },
+    "n=20|attackers=20%|Krum": {
+      "mean_acc": 0.7985,
+      "std_acc": 0.027
+    },
+    "n=20|attackers=20%|FedTWA (proposed)": {
+      "mean_acc": 0.932,
+      "std_acc": 0.0039
+    },
+    "n=20|attackers=40%|FedAvg": {
+      "mean_acc": 0.2124,
+      "std_acc": 0.0288
+    },
+    "n=20|attackers=40%|Median": {
+      "mean_acc": 0.8993,
+      "std_acc": 0.0041
+    },
+    "n=20|attackers=40%|TrimmedMean": {
+      "mean_acc": 0.4411,
+      "std_acc": 0.0318
+    },
+    "n=20|attackers=40%|Krum": {
+      "mean_acc": 0.8028,
+      "std_acc": 0.0317
+    },
+    "n=20|attackers=40%|FedTWA (proposed)": {
+      "mean_acc": 0.6972,
+      "std_acc": 0.0183
+    },
+    "n=30|attackers=20%|FedAvg": {
+      "mean_acc": 0.4731,
+      "std_acc": 0.115
+    },
+    "n=30|attackers=20%|Median": {
+      "mean_acc": 0.9283,
+      "std_acc": 0.0112
+    },
+    "n=30|attackers=20%|TrimmedMean": {
+      "mean_acc": 0.9241,
+      "std_acc": 0.0053
+    },
+    "n=30|attackers=20%|Krum": {
+      "mean_acc": 0.7409,
+      "std_acc": 0.0392
+    },
+    "n=30|attackers=20%|FedTWA (proposed)": {
+      "mean_acc": 0.9243,
+      "std_acc": 0.0078
+    },
+    "n=30|attackers=40%|FedAvg": {
+      "mean_acc": 0.1757,
+      "std_acc": 0.0393
+    },
+    "n=30|attackers=40%|Median": {
+      "mean_acc": 0.8767,
+      "std_acc": 0.0083
+    },
+    "n=30|attackers=40%|TrimmedMean": {
+      "mean_acc": 0.4365,
+      "std_acc": 0.0323
+    },
+    "n=30|attackers=40%|Krum": {
+      "mean_acc": 0.6826,
+      "std_acc": 0.0092
+    },
+    "n=30|attackers=40%|FedTWA (proposed)": {
+      "mean_acc": 0.6048,
+      "std_acc": 0.0334
+    }
+  },
+  "breast_cancer": {
+    "IID|attackers=0%|FedAvg": {
+      "mean_acc": 0.9684,
+      "std_acc": 0.0043
+    },
+    "IID|attackers=0%|Median": {
+      "mean_acc": 0.9754,
+      "std_acc": 0.0066
+    },
+    "IID|attackers=0%|TrimmedMean": {
+      "mean_acc": 0.9747,
+      "std_acc": 0.0014
+    },
+    "IID|attackers=0%|Krum": {
+      "mean_acc": 0.9589,
+      "std_acc": 0.0075
+    },
+    "IID|attackers=0%|FedTWA (proposed)": {
+      "mean_acc": 0.9761,
+      "std_acc": 0.0034
+    },
+    "IID|attackers=20%|FedAvg": {
+      "mean_acc": 0.9018,
+      "std_acc": 0.0129
+    },
+    "IID|attackers=20%|Median": {
+      "mean_acc": 0.9705,
+      "std_acc": 0.0068
+    },
+    "IID|attackers=20%|TrimmedMean": {
+      "mean_acc": 0.9716,
+      "std_acc": 0.0071
+    },
+    "IID|attackers=20%|Krum": {
+      "mean_acc": 0.9554,
+      "std_acc": 0.0091
+    },
+    "IID|attackers=20%|FedTWA (proposed)": {
+      "mean_acc": 0.9421,
+      "std_acc": 0.0087
+    },
+    "IID|attackers=40%|FedAvg": {
+      "mean_acc": 0.8982,
+      "std_acc": 0.0043
+    },
+    "IID|attackers=40%|Median": {
+      "mean_acc": 0.9579,
+      "std_acc": 0.0066
+    },
+    "IID|attackers=40%|TrimmedMean": {
+      "mean_acc": 0.9084,
+      "std_acc": 0.0126
+    },
+    "IID|attackers=40%|Krum": {
+      "mean_acc": 0.9635,
+      "std_acc": 0.0088
+    },
+    "IID|attackers=40%|FedTWA (proposed)": {
+      "mean_acc": 0.9246,
+      "std_acc": 0.0153
+    },
+    "Non-IID|attackers=0%|FedAvg": {
+      "mean_acc": 0.953,
+      "std_acc": 0.0125
+    },
+    "Non-IID|attackers=0%|Median": {
+      "mean_acc": 0.9649,
+      "std_acc": 0.0096
+    },
+    "Non-IID|attackers=0%|TrimmedMean": {
+      "mean_acc": 0.9614,
+      "std_acc": 0.0089
+    },
+    "Non-IID|attackers=0%|Krum": {
+      "mean_acc": 0.9611,
+      "std_acc": 0.0077
+    },
+    "Non-IID|attackers=0%|FedTWA (proposed)": {
+      "mean_acc": 0.9649,
+      "std_acc": 0.0131
+    },
+    "Non-IID|attackers=20%|FedAvg": {
+      "mean_acc": 0.8982,
+      "std_acc": 0.0153
+    },
+    "Non-IID|attackers=20%|Median": {
+      "mean_acc": 0.9663,
+      "std_acc": 0.0147
+    },
+    "Non-IID|attackers=20%|TrimmedMean": {
+      "mean_acc": 0.9579,
+      "std_acc": 0.0102
+    },
+    "Non-IID|attackers=20%|Krum": {
+      "mean_acc": 0.9596,
+      "std_acc": 0.0119
+    },
+    "Non-IID|attackers=20%|FedTWA (proposed)": {
+      "mean_acc": 0.9428,
+      "std_acc": 0.0211
+    },
+    "Non-IID|attackers=40%|FedAvg": {
+      "mean_acc": 0.8877,
+      "std_acc": 0.017
+    },
+    "Non-IID|attackers=40%|Median": {
+      "mean_acc": 0.9509,
+      "std_acc": 0.0089
+    },
+    "Non-IID|attackers=40%|TrimmedMean": {
+      "mean_acc": 0.8912,
+      "std_acc": 0.0205
+    },
+    "Non-IID|attackers=40%|Krum": {
+      "mean_acc": 0.9526,
+      "std_acc": 0.0119
+    },
+    "Non-IID|attackers=40%|FedTWA (proposed)": {
+      "mean_acc": 0.9053,
+      "std_acc": 0.017
+    }
+  }
+}

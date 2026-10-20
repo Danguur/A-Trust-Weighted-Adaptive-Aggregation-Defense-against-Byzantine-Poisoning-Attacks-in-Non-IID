@@ -1,0 +1,4 @@
+Partial CIFAR-10 / LeNet-5 trial (20 clients, 15 rounds, 30% of training images, 1 local epoch, 40% attackers, IPM, 3 seeds).
+Clean FedAvg accuracy was only ~21%; every rule that finished was near chance under IPM. Not used in the paper.
+Run CIFAR-10 properly on a GPU (ResNet-18, 100 rounds) with run.py; the CIFAR-10 mirror used here was a JPEG copy
+(github.com/YoongiKim/CIFAR-10-images); torchvision downloads the official files automatically on your machine.

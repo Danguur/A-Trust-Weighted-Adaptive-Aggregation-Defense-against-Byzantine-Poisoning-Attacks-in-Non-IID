@@ -1,0 +1,12 @@
+| method | aggregation_ms_per_round |
+|---|---|
+| Bulyan | 142.82 |
+| ClippedClustering | 7.01 |
+| FLTrust | 64.308 |
+| FedAvg | 0.503 |
+| FedTWA-v1 | 258.892 |
+| FedTWA-v2 | 264.446 |
+| Krum | 23.759 |
+| Median | 27.475 |
+| RFA | 14.091 |
+| TrimmedMean | 27.0 |
